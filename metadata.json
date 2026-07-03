@@ -1,0 +1,8 @@
+{
+  "name": "Remix: QR Studio Pro",
+  "description": "Professional production-ready QR Code Generator with real-time customization, eye/dot styling, AI Logo \u0026 Art generator with aspect ratios, Smart Search \u0026 Maps grounding, and Cloud/Offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
